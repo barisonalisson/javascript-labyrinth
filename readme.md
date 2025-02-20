@@ -1,4 +1,5 @@
 # JavaScript BFS Maze Solver
+
 ## Overview
 This repository contains a JavaScript implementation of a maze solver using the Breadth-First Search (BFS) algorithm. BFS is an efficient pathfinding algorithm that guarantees the shortest path in unweighted graphs, making it perfect for maze navigation where each step has the same cost.
 
