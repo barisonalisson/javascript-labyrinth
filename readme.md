@@ -23,18 +23,21 @@ The algorithm works by exploring all neighbor nodes at the present depth before 
 ##Installation and Setup
 
 1. Clone the repository:
+
 ```bash
-bashCopygit clone <your-repository-url>
+git clone <your-repository-url>
 ```
 
 2. Install dependencies (for running tests):
+
 ```bash
-bashCopynpm install
+npm install
 ```
 
 3. Project structure:
+
 ```bash
-Copyproject-root/
+project-root/
 ├── src/
 │   └── maze.js
 └── test/
